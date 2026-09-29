@@ -1,0 +1,14 @@
+---
+title: "Module 2 Quarto"
+author: "Gage Carr"
+format: html
+editor: visual
+---
+
+```{r}
+#| message: false
+#| warning: false
+
+# Execute workshop 1 R script
+source("../code/Module_02.R") # change the filepath/name if required 
+```
